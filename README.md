@@ -1,3 +1,3 @@
 # pclub_ans_anant
-domain cp pclub anant
- im changiing file
+deep into CNNs 
+Diabetes Prediction Using logistic regression and gradient descent for prediction.
